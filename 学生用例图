@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T13:52:08.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_64ZIQcwqrHk985Bzotq" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T14:05:36.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="W9bbm8aacxcxz1cCThZZ" version="21.3.2" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -39,6 +39,63 @@
         </mxCell>
         <mxCell id="VJr9EBrivVayIImrYrgF-10" value="获取课程通知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VJr9EBrivVayIImrYrgF-26" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJr9EBrivVayIImrYrgF-2" target="VJr9EBrivVayIImrYrgF-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="-40" as="sourcePoint" />
+            <mxPoint x="568" y="-142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJr9EBrivVayIImrYrgF-27" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJr9EBrivVayIImrYrgF-2" target="VJr9EBrivVayIImrYrgF-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="240" as="sourcePoint" />
+            <mxPoint x="1008" y="188" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJr9EBrivVayIImrYrgF-28" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJr9EBrivVayIImrYrgF-2" target="VJr9EBrivVayIImrYrgF-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="270" as="sourcePoint" />
+            <mxPoint x="1018" y="218" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJr9EBrivVayIImrYrgF-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJr9EBrivVayIImrYrgF-3" target="VJr9EBrivVayIImrYrgF-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="450" as="sourcePoint" />
+            <mxPoint x="1008" y="398" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJr9EBrivVayIImrYrgF-30" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJr9EBrivVayIImrYrgF-3" target="VJr9EBrivVayIImrYrgF-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="450" as="sourcePoint" />
+            <mxPoint x="1038" y="398" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJr9EBrivVayIImrYrgF-31" value="个人信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VJr9EBrivVayIImrYrgF-32" value="个人信息修改" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VJr9EBrivVayIImrYrgF-33" value="个人信息获取" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VJr9EBrivVayIImrYrgF-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJr9EBrivVayIImrYrgF-1" target="VJr9EBrivVayIImrYrgF-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="560" as="sourcePoint" />
+            <mxPoint x="870" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJr9EBrivVayIImrYrgF-35" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJr9EBrivVayIImrYrgF-31" target="VJr9EBrivVayIImrYrgF-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="720" as="sourcePoint" />
+            <mxPoint x="818" y="668" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJr9EBrivVayIImrYrgF-36" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJr9EBrivVayIImrYrgF-31" target="VJr9EBrivVayIImrYrgF-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="770" as="sourcePoint" />
+            <mxPoint x="798" y="718" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
