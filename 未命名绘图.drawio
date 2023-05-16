@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T09:46:22.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="JMdYt_XyjeiWTh0rrhhk" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T09:50:41.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="muQS6gmo6qwjmF2rFbW8" version="21.3.2" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1800" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -71,10 +71,10 @@
           <mxGeometry x="460" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kVEgBky2zOYH0hEezjp1-106" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="460" y="460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kVEgBky2zOYH0hEezjp1-107" value="数据概览" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="460" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kVEgBky2zOYH0hEezjp1-108" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kVEgBky2zOYH0hEezjp1-91" target="kVEgBky2zOYH0hEezjp1-106">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -138,6 +138,24 @@
             <mxPoint x="240" y="240" as="sourcePoint" />
             <mxPoint x="340" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kVEgBky2zOYH0hEezjp1-123" value="课程资源学习" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kVEgBky2zOYH0hEezjp1-124" value="完成课程任务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kVEgBky2zOYH0hEezjp1-125" value="获取课程通知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kVEgBky2zOYH0hEezjp1-126" value="课程任务发布" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kVEgBky2zOYH0hEezjp1-127" value="课程通知发布" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kVEgBky2zOYH0hEezjp1-128" value="课程资源上传" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
