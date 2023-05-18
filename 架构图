@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T09:21:19.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Ky48Gn1W-XRWoOsdHahX" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T09:28:05.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ld-rUO7A1S7iVqNP3uA8" version="21.3.2" type="github">
   <diagram name="第 1 页" id="GZF_95tmLxIXpCzSwZKV">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TGJlADCPpE8z6FpjyWzK-1" value="系统架构图" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="100" width="530" height="590" as="geometry">
+          <mxGeometry x="300" y="100" width="530" height="500" as="geometry">
             <mxRectangle x="300" y="100" width="40" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -29,22 +29,43 @@
         <mxCell id="TGJlADCPpE8z6FpjyWzK-3" value="服务层" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="TGJlADCPpE8z6FpjyWzK-1" vertex="1">
           <mxGeometry x="20" y="200" width="510" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="iGfeBe5M91S7rl01AbHf-10" value="开发技术" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="TGJlADCPpE8z6FpjyWzK-3">
-          <mxGeometry x="60" y="20" width="140" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="iGfeBe5M91S7rl01AbHf-11" value="nodejs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="iGfeBe5M91S7rl01AbHf-10">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="iGfeBe5M91S7rl01AbHf-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;express&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iGfeBe5M91S7rl01AbHf-10">
-          <mxGeometry y="60" width="140" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="iGfeBe5M91S7rl01AbHf-14" value="服务集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="TGJlADCPpE8z6FpjyWzK-3">
           <mxGeometry x="280" y="10" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="iGfeBe5M91S7rl01AbHf-15" value="学生服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;fontStyle=1" vertex="1" parent="iGfeBe5M91S7rl01AbHf-14">
+          <mxGeometry x="20" y="35" width="160" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iGfeBe5M91S7rl01AbHf-16" value="教师服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;fontStyle=1" vertex="1" parent="iGfeBe5M91S7rl01AbHf-14">
+          <mxGeometry x="20" y="70" width="160" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iGfeBe5M91S7rl01AbHf-17" value="管理员服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;fontStyle=1" vertex="1" parent="iGfeBe5M91S7rl01AbHf-14">
+          <mxGeometry x="20" y="110" width="160" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iGfeBe5M91S7rl01AbHf-18" value="文件转存服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;fontStyle=1" vertex="1" parent="iGfeBe5M91S7rl01AbHf-14">
+          <mxGeometry x="20" y="150" width="160" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iGfeBe5M91S7rl01AbHf-20" value="开发技术" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="TGJlADCPpE8z6FpjyWzK-3">
+          <mxGeometry x="40" y="10" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="iGfeBe5M91S7rl01AbHf-21" value="nodejs" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="iGfeBe5M91S7rl01AbHf-20">
+          <mxGeometry x="20" y="35" width="160" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iGfeBe5M91S7rl01AbHf-22" value="express" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="iGfeBe5M91S7rl01AbHf-20">
+          <mxGeometry x="20" y="70" width="160" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iGfeBe5M91S7rl01AbHf-23" value="webpack" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="iGfeBe5M91S7rl01AbHf-20">
+          <mxGeometry x="20" y="110" width="160" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iGfeBe5M91S7rl01AbHf-24" value="mongoose" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="iGfeBe5M91S7rl01AbHf-20">
+          <mxGeometry x="20" y="150" width="160" height="25" as="geometry" />
+        </mxCell>
         <mxCell id="TGJlADCPpE8z6FpjyWzK-4" value="数据层" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="TGJlADCPpE8z6FpjyWzK-1" vertex="1">
-          <mxGeometry x="20" y="420" width="510" height="170" as="geometry">
+          <mxGeometry x="20" y="420" width="510" height="80" as="geometry">
             <mxRectangle x="20" y="240" width="460" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iGfeBe5M91S7rl01AbHf-25" value="MongoDB" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="TGJlADCPpE8z6FpjyWzK-4">
+          <mxGeometry x="195" y="10" width="105" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
