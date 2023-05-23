@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T13:24:43.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HCuWxBEtf5GgNV4SXEzb" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T13:25:14.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="JFe4GKr4d7YlGKdl4FMZ" version="21.3.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="490" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P3mSmeKYNwBddkdJCPix-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P3mSmeKYNwBddkdJCPix-2" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="470" width="120" height="60" as="geometry" />
