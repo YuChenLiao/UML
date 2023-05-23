@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T13:10:32.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="b8k4xcLGluPBaDdsRarI" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T13:20:03.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-cD7OzjmpuahmUU9p8vX" version="21.3.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -7,19 +7,19 @@
         <mxCell id="xuNK8grpQeK4exGoaWvM-2" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xuNK8grpQeK4exGoaWvM-3" value="课程数据集合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="xuNK8grpQeK4exGoaWvM-3" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xuNK8grpQeK4exGoaWvM-4" value="章节数据集合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="xuNK8grpQeK4exGoaWvM-4" value="章节" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xuNK8grpQeK4exGoaWvM-5" value="作业数据集合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="xuNK8grpQeK4exGoaWvM-5" value="作业" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xuNK8grpQeK4exGoaWvM-6" value="考试数据集合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="xuNK8grpQeK4exGoaWvM-6" value="考试" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xuNK8grpQeK4exGoaWvM-7" value="通知数据集合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="xuNK8grpQeK4exGoaWvM-7" value="通知" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P3mSmeKYNwBddkdJCPix-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="P3mSmeKYNwBddkdJCPix-2" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P3mSmeKYNwBddkdJCPix-3" value="讨论帖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
