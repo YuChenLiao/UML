@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T07:27:56.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="__C-ohyUE0khOUnTWB7s" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T07:49:58.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Noxl3TNTx5rQQp7IIRgy" version="21.3.2" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="420" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="beC9UcA8N_rH1qXXk86U-3" value="课程发布" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="140" width="120" height="80" as="geometry" />
+          <mxGeometry x="650" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="beC9UcA8N_rH1qXXk86U-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="beC9UcA8N_rH1qXXk86U-1" target="beC9UcA8N_rH1qXXk86U-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -20,13 +20,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="beC9UcA8N_rH1qXXk86U-6" value="课程描述" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="950" y="70" width="120" height="80" as="geometry" />
+          <mxGeometry x="860" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="beC9UcA8N_rH1qXXk86U-7" value="课程资源上传" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="950" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="870" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="beC9UcA8N_rH1qXXk86U-8" value="章节资源上传" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="817" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="beC9UcA8N_rH1qXXk86U-9" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="beC9UcA8N_rH1qXXk86U-3" target="beC9UcA8N_rH1qXXk86U-6" edge="1">
           <mxGeometry relative="1" as="geometry">
