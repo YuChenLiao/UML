@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T07:40:24.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dizbx5twB9M4iKZXwxUm" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T07:44:30.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="4re8Hdw-N5ziQ9ihzaMk" version="21.3.2" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1450" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -155,7 +155,7 @@
           <mxGeometry x="660" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kVEgBky2zOYH0hEezjp1-128" value="课程资源上传" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="390" width="120" height="80" as="geometry" />
+          <mxGeometry x="660" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kVEgBky2zOYH0hEezjp1-129" value="管理老师用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="600" width="120" height="80" as="geometry" />
