@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T04:15:40.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.4" etag="hHPPf4Uo7ojAzGu2EvkQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T04:20:14.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0LHo7n7kmKuU60YQwjtZ" version="21.3.4" type="github">
   <diagram name="第 1 页" id="fGEJKvdgdWr-EDYlBqb1">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UlIlyGTKHcy2vcoal6Ta-1" value="讨论帖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UlIlyGTKHcy2vcoal6Ta-2" value="ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UlIlyGTKHcy2vcoal6Ta-3" value="标题" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UlIlyGTKHcy2vcoal6Ta-4" value="内容" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UlIlyGTKHcy2vcoal6Ta-5" value="所属课程" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UlIlyGTKHcy2vcoal6Ta-6" value="发布者" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UlIlyGTKHcy2vcoal6Ta-7" value="发布时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="710" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UlIlyGTKHcy2vcoal6Ta-8" value="图片" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
